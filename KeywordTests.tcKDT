@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="Somar" key="{7D3268F0-1973-4E15-B70F-3DE1484389B3}" path="Somar.tcKDTest" />
+		<child name="Subtrair" key="{D4C6BAA1-59FC-4BA6-AB66-1F5E5CE4B0E1}" path="Subtrair.tcKDTest" />
+		<child name="Multiplicar" key="{6C3C16D8-127D-4089-915B-41C3598EF4EC}" path="Multiplicar.tcKDTest" />
+		<child name="Dividir" key="{7F3F32A2-F773-4762-926F-F7E5948AD744}" path="Dividir.tcKDTest" />
+	</children>
+</Root>
